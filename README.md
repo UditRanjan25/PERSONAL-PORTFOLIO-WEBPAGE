@@ -52,4 +52,17 @@ In conclusion, the Personal Portfolio Website is a crucial tool for modern profe
 
 **OUTPUT**
 
+<img width="1904" height="965" alt="Image" src="https://github.com/user-attachments/assets/5279fccf-8121-4879-83d9-e499284d1888" />
+
+<img width="1889" height="963" alt="Image" src="https://github.com/user-attachments/assets/52c8354d-11a8-49a0-bea4-30b008b1bb73" />
+
+<img width="1892" height="964" alt="Image" src="https://github.com/user-attachments/assets/59dad50f-d31f-4d77-ad06-8931613eb6a4" />
+
+<img width="1873" height="957" alt="Image" src="https://github.com/user-attachments/assets/d4625381-ed07-4c48-b599-971a54826629" />
+
+<img width="1890" height="962" alt="Image" src="https://github.com/user-attachments/assets/00170d51-c801-48ab-9167-cc13aa4d7f6e" />
+
+<img width="1891" height="953" alt="Image" src="https://github.com/user-attachments/assets/9ff5179a-eaa5-4167-8bf9-4469505f2fb5" />
+
+<img width="1897" height="961" alt="Image" src="https://github.com/user-attachments/assets/51ee7323-67a5-46f3-a3d2-68900fd1e0ea" />
 
